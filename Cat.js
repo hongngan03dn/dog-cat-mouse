@@ -1,6 +1,7 @@
 function Cat() {
     this.stomach = [];
     // today is 27012023
+    // 1
 }
 
 Cat.prototype.eat = function(mouse) {
