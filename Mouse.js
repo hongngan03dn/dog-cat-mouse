@@ -9,8 +9,5 @@ Mouse.prototype.die = function() {
 
 module.exports = Mouse;
 
-<<<<<<< HEAD
 // mouse run nek
-=======
 // 2-commit cho sleep
->>>>>>> master
