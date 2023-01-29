@@ -1,10 +1,12 @@
 function Mouse(name) {
-	this.name = name;
-	this.isDead = false;
+    this.name = name;
+    this.isDead = false;
 }
 
 Mouse.prototype.die = function() {
-	this.isDead = true
+    this.isDead = true
 };
 
 module.exports = Mouse;
+
+// 2-commit cho sleep
