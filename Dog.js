@@ -9,3 +9,4 @@ Dog.prototype.eat = function(cat) {
 // 2-commit dog drink
 
 // test 1
+// test 2
