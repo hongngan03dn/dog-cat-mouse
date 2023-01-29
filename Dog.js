@@ -1,7 +1,8 @@
 function Dog() {
-	this.stomach = [];
+    this.stomach = [];
 }
 
 Dog.prototype.eat = function(cat) {
-	this.stomach.push(cat);
+    this.stomach.push(cat);
 };
+// 1-commit  dog eat
