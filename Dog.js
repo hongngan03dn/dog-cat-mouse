@@ -10,3 +10,4 @@ Dog.prototype.eat = function(cat) {
 
 // today is 30th1
 // today is 30th1 thu 2
+// today is 30th1 thu 3
