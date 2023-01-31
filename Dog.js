@@ -7,3 +7,5 @@ Dog.prototype.eat = function(cat) {
 };
 // 1-commit  dog eat
 // 2-commit dog drink
+
+// today is 30th1
